@@ -2,6 +2,10 @@
 
 # Glogger
 
+[![Build Status](https://github.com/riccardotzr/glogger/workflows/build/badge.svg)](https://github.com/riccardotzr/gconfig/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/riccardotzr/glogger)](https://goreportcard.com/report/github.com/riccardotzr/glogger)
+[![Go Reference](https://pkg.go.dev/badge/github.com/riccardotzr/glogger.svg)](https://pkg.go.dev/github.com/riccardotzr/glogger)
+
 </div>
 
 Glogger is a go logging library. It uses [logrus](https://github.com/sirupsen/logrus) library and implements a middleware to be used with [Gorilla Mux](https://github.com/gorilla/mux).
